@@ -1,1 +1,1 @@
-Put the example/com directories in the java directory
+Put the com/example directories in the java directory
