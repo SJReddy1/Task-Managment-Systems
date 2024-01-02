@@ -1,1 +1,1 @@
-Please put example/com directories in java directory
+Please put com/example directories in this directory.
